@@ -1,0 +1,12 @@
+flask
+sqlalchemy
+flask_sqlalchemy
+flask_cors
+flask_marshmallow
+sqlalchemy_utils
+marshmallow-sqlalchemy
+mysqlclient
+pyjwt
+winapps
+wmi
+Flask-APScheduler
